@@ -1,0 +1,27 @@
+_repo: The-Crisis-in-Russia_1326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ransome, Arthur
+    birthdate: 1884
+    deathdate: 1967
+    gutenberg_agent_id: '601'
+    url: http://www.gutenberg.org/2009/agents/601
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Ransome
+description: ''
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Soviet Union -- Politics and government -- 1917-1936'
+- !lcsh 'Communism -- Soviet Union'
+- !lcsh 'Soviet Union -- Economic conditions -- 1917-1945'
+- GITenberg
+title: The Crisis in Russia
+url: http://www.gutenberg.org/ebooks/1326
